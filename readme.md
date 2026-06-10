@@ -1,6 +1,6 @@
-#This is a practice folder 
+# This is a practice folder 
 
-##PRactice 
+## PRactice 
 
 ```bash
 print("hello world")
